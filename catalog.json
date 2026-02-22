@@ -1,0 +1,190 @@
+{
+  "metadata": {
+    "email": "23f3004106@ds.study.iitm.ac.in",
+    "version": "548fdba4"
+  },
+  "products": [
+    {
+      "id": "prod-548fdba4-001",
+      "name": "Premium Item 1",
+      "category": "books",
+      "price": 29.64,
+      "stock": 27,
+      "rating": 4.2
+    },
+    {
+      "id": "prod-548fdba4-002",
+      "name": "Basic Item 2",
+      "category": "sports",
+      "price": 181.31,
+      "stock": 73,
+      "rating": 3.6
+    },
+    {
+      "id": "prod-548fdba4-003",
+      "name": "Basic Item 3",
+      "category": "sports",
+      "price": 285.6,
+      "stock": 138,
+      "rating": 1.2
+    },
+    {
+      "id": "prod-548fdba4-004",
+      "name": "Premium Item 4",
+      "category": "books",
+      "price": 363.19,
+      "stock": 131,
+      "rating": 3.9
+    },
+    {
+      "id": "prod-548fdba4-005",
+      "name": "Pro Item 5",
+      "category": "books",
+      "price": 79.11,
+      "stock": 198,
+      "rating": 2.4
+    },
+    {
+      "id": "prod-548fdba4-006",
+      "name": "Standard Item 6",
+      "category": "sports",
+      "price": 214.06,
+      "stock": 142,
+      "rating": 2.6
+    },
+    {
+      "id": "prod-548fdba4-007",
+      "name": "Pro Item 7",
+      "category": "sports",
+      "price": 358.52,
+      "stock": 50,
+      "rating": 3.1
+    },
+    {
+      "id": "prod-548fdba4-008",
+      "name": "Basic Item 8",
+      "category": "electronics",
+      "price": 81.33,
+      "stock": 156,
+      "rating": 2.6
+    },
+    {
+      "id": "prod-548fdba4-009",
+      "name": "Elite Item 9",
+      "category": "electronics",
+      "price": 216.28,
+      "stock": 172,
+      "rating": 1.1
+    },
+    {
+      "id": "prod-548fdba4-010",
+      "name": "Basic Item 10",
+      "category": "clothing",
+      "price": 467.65,
+      "stock": 22,
+      "rating": 3.3
+    },
+    {
+      "id": "prod-548fdba4-011",
+      "name": "Standard Item 11",
+      "category": "electronics",
+      "price": 334.26,
+      "stock": 54,
+      "rating": 3.2
+    },
+    {
+      "id": "prod-548fdba4-012",
+      "name": "Elite Item 12",
+      "category": "sports",
+      "price": 472.49,
+      "stock": 195,
+      "rating": 4.6
+    },
+    {
+      "id": "prod-548fdba4-013",
+      "name": "Basic Item 13",
+      "category": "clothing",
+      "price": 357.05,
+      "stock": 196,
+      "rating": 3.1
+    },
+    {
+      "id": "prod-548fdba4-014",
+      "name": "Premium Item 14",
+      "category": "electronics",
+      "price": 277.16,
+      "stock": 124,
+      "rating": 1.7
+    },
+    {
+      "id": "prod-548fdba4-015",
+      "name": "Pro Item 15",
+      "category": "home",
+      "price": 365.73,
+      "stock": 2,
+      "rating": 1.6
+    },
+    {
+      "id": "prod-548fdba4-016",
+      "name": "Premium Item 16",
+      "category": "electronics",
+      "price": 123.34,
+      "stock": 80,
+      "rating": 4.9
+    },
+    {
+      "id": "prod-548fdba4-017",
+      "name": "Standard Item 17",
+      "category": "clothing",
+      "price": 147.37,
+      "stock": 191,
+      "rating": 2.3
+    },
+    {
+      "id": "prod-548fdba4-018",
+      "name": "Basic Item 18",
+      "category": "books",
+      "price": 126.66,
+      "stock": 113,
+      "rating": 1.5
+    },
+    {
+      "id": "prod-548fdba4-019",
+      "name": "Standard Item 19",
+      "category": "books",
+      "price": 232.34,
+      "stock": 41,
+      "rating": 1.9
+    },
+    {
+      "id": "prod-548fdba4-020",
+      "name": "Basic Item 20",
+      "category": "sports",
+      "price": 150.41,
+      "stock": 146,
+      "rating": 4.4
+    },
+    {
+      "id": "prod-548fdba4-021",
+      "name": "Pro Item 21",
+      "category": "home",
+      "price": 96.57,
+      "stock": 81,
+      "rating": 3.8
+    },
+    {
+      "id": "prod-548fdba4-022",
+      "name": "Standard Item 22",
+      "category": "electronics",
+      "price": 204.26,
+      "stock": 155,
+      "rating": 3.6
+    }
+  ],
+  "aggregations": {
+    "home": {
+      "count": 2,
+      "inventoryValue": 8553.63
+    }
+  }
+}
