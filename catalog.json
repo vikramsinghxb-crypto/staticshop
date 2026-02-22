@@ -184,7 +184,7 @@
   "aggregations": {
     "books": {
       "count": 5,
-      "inventoryValue": 87877.47
+      "inventoryValue": 87880.47
     },
     "sports": {
       "count": 6,
