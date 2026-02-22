@@ -20,4 +20,4 @@ jobs:
           key: cache-ebcda13
 
       - name: prime-cache-ebcda13
-        run: echo "Cache hit: ${{ steps.cache.outputs.cache-hit }}"
+        run: echo Cache-hit-status=${{ steps.cache.outputs.cache-hit }}
