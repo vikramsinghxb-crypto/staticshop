@@ -10,15 +10,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
       - name: Cache dependencies
         id: cache
         uses: actions/cache@v4
         with:
-          path: ~/.npm
+          path: ~/.cache
           key: cache-ebcda13
 
       - name: prime-cache-ebcda13
-        run: echo "Cache hit status: ${{ steps.cache.outputs.cache-hit }}"
+        run: echo "Cache hit: ${{ steps.cache.outputs.cache-hit }}"
